@@ -272,15 +272,15 @@ with DAG(
 
 ### 5. Capture de la liste des DAGs dans l'interface Airflow
 
-![Liste des 4 DAGs](images/21.png)
+![Liste des 4 DAGs](images/liste-dags.png)
 
 ### 6. Capture de la vue Graph d'un DAG réussi
 
-![Vue Graph — pipeline_big_data_python en succès](images/15.png)
+![Vue Graph — pipeline_big_data_python en succès](images/graph-pipeline-reussi.png)
 
 ### 7. Capture des logs d'une tâche PythonOperator
 
-![Logs de traitement_analytique](images/10.png)
+![Logs de traitement_analytique](images/logs-traitement-analytique.png)
 
 ---
 
